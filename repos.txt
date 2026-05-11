@@ -20,3 +20,6 @@ KaringX/karing|\.dmg|\.exe
 
 # 6. No filter – keep all assets from the release
 2dust/v2rayNG
+
+# 7. Match keywords (e.g., universal.apk)
+anonvector/SlipNet|universal.apk
