@@ -23,3 +23,6 @@ KaringX/karing|\.dmg|\.exe
 
 # 7. Match keywords (e.g., universal.apk)
 anonvector/SlipNet|universal.apk
+
+# 8. No filter – keep all assets from the release
+amirshaker000/netlify-relay
